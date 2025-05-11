@@ -1,28 +1,28 @@
-# wireframing
+# Wireframing
 
 📌**Introduction to Wireframing**
 
 Wireframing is a visual guide that represents the skeletal framework of a digital product. It plays a vital role in the design process by helping teams define the layout, structure, and functionality before development begins. This stage allows for early feedback and reduces costly changes later in the project.
 
 
-🧩 **Key Elements of Wireframing**
+🧩 ## Key Elements of Wireframing
 - **Layout Structure:** Organizes elements on a page to guide user flow and hierarchy.
 
-          -- Example: Placing headers at the top and navigation menus to the side 
+          - Example: Placing headers at the top and navigation menus to the side 
              for consistency.
   
 - **Navigation:** Helps users move through the product intuitively.
 
-          -- Example: Clear buttons or menus allow users to access different 
+          - Example: Clear buttons or menus allow users to access different 
               pages easily.
 
 - **Content Placement:** Shows where text, images, and other components will be located.
 
-          -- Example: Placeholder text blocks and image boxes in mockups.
+          - Example: Placeholder text blocks and image boxes in mockups.
 
 - **Functionality:** Indicates interactive elements and their behaviors.
 
-          -- Example: Buttons leading to new screens or submitting forms.
+          - Example: Buttons leading to new screens or submitting forms.
 
 🧱 **Types of Wireframes**
 **Low-Fidelity Wireframes**
