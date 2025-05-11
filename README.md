@@ -8,21 +8,21 @@ Wireframing is a visual guide that represents the skeletal framework of a digita
 🧩 **Key Elements of Wireframing**
 - **Layout Structure:** Organizes elements on a page to guide user flow and hierarchy.
 
-          - Example: Placing headers at the top and navigation menus to the side 
+     - Example: Placing headers at the top and navigation menus to the side 
              for consistency.
   
 - **Navigation:** Helps users move through the product intuitively.
 
-          - Example: Clear buttons or menus allow users to access different 
+    - Example: Clear buttons or menus allow users to access different 
               pages easily.
 
 - **Content Placement:** Shows where text, images, and other components will be located.
 
-          - Example: Placeholder text blocks and image boxes in mockups.
+   - Example: Placeholder text blocks and image boxes in mockups.
 
 - **Functionality:** Indicates interactive elements and their behaviors.
 
-          - Example: Buttons leading to new screens or submitting forms.
+   - Example: Buttons leading to new screens or submitting forms.
 
 🧱 **Types of Wireframes**
 **Low-Fidelity Wireframes**
@@ -52,6 +52,7 @@ Several tools help designers build wireframes efficiently. Popular options inclu
 Figma allows teams to work on designs simultaneously, making it ideal for remote collaboration. It supports both wireframing and high-fidelity prototyping in a single interface.
 
 ✅ **Benefits of Wireframing in Software Development**
+
 Wireframing:
 
 - Provides a clear visual plan, helping developers understand feature layout.
